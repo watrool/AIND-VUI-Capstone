@@ -25,3 +25,7 @@
 ### Model 6
 **Total edit distance**: 66050  
 **PER**: 44.901732846586316
+
+### Model 7
+**Total edit distance**: 62705  
+**PER**: 42.627754097580544
